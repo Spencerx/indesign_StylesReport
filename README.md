@@ -7,4 +7,10 @@ Returns a sequential list of paragraph styles in use, for each paragraph, as wel
 
 To be used for comparing styles used in the InDesign file vs. styles used in the Word file.
 
-Mac Users: Install in Macintosh HD/Applications/Adobe InDesign FOO/Scripts/Scripts Panel/
+Mac Users: Install in:
+
+Macintosh HD/Applications/Adobe InDesign FOO/Scripts/Scripts Panel/
+
+OR
+
+/Users/[you]/Library/Preferences/Adobe InDesign/Version FOO/en_US/Scripts/Scripts Panel
