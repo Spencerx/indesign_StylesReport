@@ -42,6 +42,8 @@ for (var k = 0; arr.length > k; k++) {
 }
 myTextFile.close(); 
 
+alert ("Your Paragraph Styles Report is complete! You can check it out here: "+aDoc.filePath+"/StylesReport.txt");
+
 }
 }())
 
